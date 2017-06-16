@@ -55,6 +55,12 @@ key_key.pickItem:-98
 key_key.command:53
 key_key.tarmor:24
 key_key.tcapes.reload:88
+key_JourneyMap: Toggle Map:36
+key_JourneyMap: Zoom In:13
+key_JourneyMap: Zoom Out:12
+key_JourneyMap: Show Day Map:26
+key_JourneyMap: Show Night Map:27
+key_JourneyMap: Change Minimap Position:43
 key_Mekanism Mode Switch:50
 key_Mekanism Voice:22
 key_xact.clear:208
